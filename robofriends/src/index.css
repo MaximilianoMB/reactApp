@@ -5,9 +5,24 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%)
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: "Rubik Puddles";
+  src: local("Rubik Puddles"),
+   url("./RubikPuddles-Regular.ttf") format("truetype");
+  font-weight: bold;
+  }
+
+  .titulo {
+    font-family: "Rubik Puddles";
+    font-size: 100px;
+    font-weight: 200;
+    color: #0ccac4;
 }
