@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.86e7c736.css",
+    "main.js": "/reactApp/static/js/main.e34c0a8d.js",
+    "static/js/787.32032a02.chunk.js": "/reactApp/static/js/787.32032a02.chunk.js",
+    "static/media/RubikPuddles-Regular.ttf": "/reactApp/static/media/RubikPuddles-Regular.db0b337f1dcd411924e4.ttf",
+    "index.html": "/reactApp/index.html",
+    "main.86e7c736.css.map": "/reactApp/static/css/main.86e7c736.css.map",
+    "main.e34c0a8d.js.map": "/reactApp/static/js/main.e34c0a8d.js.map",
+    "787.32032a02.chunk.js.map": "/reactApp/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e7c736.css",
+    "static/js/main.e34c0a8d.js"
+  ]
+}
